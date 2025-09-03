@@ -1,0 +1,14 @@
+# Simple Python Test
+
+# 1. Print something
+print("Hello, GitHub learner! 🚀")
+
+# 2. Take input and respond
+name = input("What is your name? ")
+print(f"Nice to meet you, {name}!")
+
+# 3. Do a small math test
+a = int(input("Enter a number: "))
+b = int(input("Enter another number: "))
+print(f"{a} + {b} = {a+b}")
+print(f"{a} * {b} = {a*b}")
